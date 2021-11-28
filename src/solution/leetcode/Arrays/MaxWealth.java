@@ -1,6 +1,6 @@
-package solution.leetcode;
+package solution.leetcode.Arrays;
 
-public class arr_1672 {
+public class MaxWealth {
     public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
         for (int i = 0; i < accounts.length; i++) {

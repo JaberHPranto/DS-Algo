@@ -6,6 +6,7 @@ public class basicLinearSearch {
     public static void main(String[] args) {
         int[] arr ={12,45,40,56,68};
 //        System.out.println(getElement(arr,40));
+        
 
         int[][] arr2D={
                 {44,3,4,12},

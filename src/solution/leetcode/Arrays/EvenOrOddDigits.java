@@ -1,6 +1,6 @@
-package solution.leetcode;
+package solution.leetcode.Arrays;
 
-public class arr_1295 {
+public class EvenOrOddDigits {
 //    format 1
     public int findNumbers(int[] nums) {
         int count=0;
